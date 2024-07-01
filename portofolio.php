@@ -48,8 +48,8 @@
         <nav id="navbar" class="navbar">
             <ul>
             <li><a class="nav-link scrollto " href="index.php">Home</a></li>
-            <li><a class="nav-link scrollto" href="#about">About</a></li>
-            <li><a class="active" href="#portfolio">Portfolio</a></li>
+            <li><a class="nav-link scrollto" href="about.php">About</a></li>
+            <li><a class="active" href="portfolio.php">Portfolio</a></li>
             <li><a class="nav-link scrollto" href="#team">Team</a></li>
             <li class="dropdown megamenu"><a href="#"><span>Mega Menu</span> <i class="bi bi-chevron-down"></i></a>
                 <ul>
@@ -90,60 +90,29 @@
         <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-            <h2>Portfolio</h2>
             <p>Check our latest work</p>
         </header>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
             <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-                <li data-filter="*" class="filter-active">All</li>
-                <li data-filter=".filter-app">App</li>
-                <li data-filter=".filter-card">Card</li>
-                <li data-filter=".filter-web">Web</li>
+                <li data-filter="*" class="filter-active">Semua</li>
+                <li data-filter=".filter-app">Bakpao Asin</li>
+                <li data-filter=".filter-card">Bakpao Manis</li>
             </ul>
             </div>
         </div>
 
         <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/bakpao_redB.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                <h4>Bakpao Red Beans</h4>
+                <p>Card</p>
                 <div class="portfolio-links">
-                    <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 1"><i class="bi bi-plus"></i></a>
-                    <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
-                </div>
-            </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                    <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
-                    <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
-                </div>
-            </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                    <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 2"><i class="bi bi-plus"></i></a>
-                    <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                    <a href="assets/img/portfolio/bakpao_redB.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Kacang Merah"><i class="bi bi-plus"></i></a>
                 </div>
                 </div>
             </div>
@@ -151,27 +120,12 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/bakpao_kacangijo.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                <h4>Card 2</h4>
+                <h4>Bakpao Kacang Hijau</h4>
                 <p>Card</p>
                 <div class="portfolio-links">
-                    <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 2"><i class="bi bi-plus"></i></a>
-                    <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
-                </div>
-            </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                    <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 2"><i class="bi bi-plus"></i></a>
-                    <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                    <a href="assets/img/portfolio/bakpao_kacangijo.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Kacang Hijau"><i class="bi bi-plus"></i></a>
                 </div>
                 </div>
             </div>
@@ -179,13 +133,39 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/bakpao ayamPA.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                <h4>App 3</h4>
+                <h4>Bakpao Ayam Panggang</h4>
                 <p>App</p>
                 <div class="portfolio-links">
-                    <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 3"><i class="bi bi-plus"></i></a>
-                    <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                    <a href="assets/img/portfolio/bakpao ayamPA.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Ayam Panggang"><i class="bi bi-plus"></i></a>
+                </div>
+                </div>
+            </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/bakpao_sapi.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                <h4>Bakpao Daging Sapi</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                    <a href="assets/img/portfolio/bakpao_sapi.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Danging Sapi Pedas Manis"><i class="bi bi-plus"></i></a>
+                </div>
+                </div>
+            </div>
+            </div>
+
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/bakpao_telor.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                <h4>Bakpao Telur</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                    <a href="assets/img/portfolio/bakpao_telor.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Telur"><i class="bi bi-plus"></i></a>
                 </div>
                 </div>
             </div>
@@ -193,41 +173,25 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/bakpao_coklat.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                <h4>Card 1</h4>
+                <h4>Bakpao Coklat</h4>
                 <p>Card</p>
                 <div class="portfolio-links">
-                    <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 1"><i class="bi bi-plus"></i></a>
-                    <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                    <a href="assets/img/portfolio/bakpao_coklat.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Coklat"><i class="bi bi-plus"></i></a>
                 </div>
                 </div>
             </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/bakpao_ayamM.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
+                <h4>Bakpao Ayam Manis</h4>
+                <p>App</p>
                 <div class="portfolio-links">
-                    <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 3"><i class="bi bi-plus"></i></a>
-                    <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
-                </div>
-            </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                    <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
-                    <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                    <a href="assets/img/portfolio/bakpao_ayamM.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Ayam Kecap"><i class="bi bi-plus"></i></a>
                 </div>
                 </div>
             </div>
