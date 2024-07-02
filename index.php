@@ -43,8 +43,8 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="index.html" class="logo d-flex align-items-center">
-        <img src="assets/img/logo.png" alt="">
-        <span>FlexStart</span>
+        <img src="assets/img/logo 32.png" alt="">
+        <span>PAOPAO</span>
       </a>
 
       <nav id="navbar" class="navbar">
@@ -93,12 +93,12 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">We offer modern solutions for growing your business</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">We are team of talented designers making websites with Bootstrap</h2>
+          <h1 data-aos="fade-up">Bakpao Tradisional</h1>
+          <h2 data-aos="fade-up" data-aos-delay="400">Nikmati Kelezatan Disetiap Gigitan</h2>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
               <a href="#about" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
-                <span>Get Started</span>
+                <span>Menu</span>
                 <i class="bi bi-arrow-right"></i>
               </a>
             </div>
