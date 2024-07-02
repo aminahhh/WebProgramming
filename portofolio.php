@@ -50,32 +50,7 @@
             <li><a class="nav-link scrollto " href="index.php">Home</a></li>
             <li><a class="nav-link scrollto" href="about.php">About</a></li>
             <li><a class="active" href="portfolio.php">Portfolio</a></li>
-            <li><a class="nav-link scrollto" href="#team">Team</a></li>
-            <li class="dropdown megamenu"><a href="#"><span>Mega Menu</span> <i class="bi bi-chevron-down"></i></a>
-                <ul>
-                <li>
-                    <a href="#">Column 1 link 1</a>
-                    <a href="#">Column 1 link 2</a>
-                    <a href="#">Column 1 link 3</a>
-                </li>
-                <li>
-                    <a href="#">Column 2 link 1</a>
-                    <a href="#">Column 2 link 2</a>
-                    <a href="#">Column 3 link 3</a>
-                </li>
-                <li>
-                    <a href="#">Column 3 link 1</a>
-                    <a href="#">Column 3 link 2</a>
-                    <a href="#">Column 3 link 3</a>
-                </li>
-                <li>
-                    <a href="#">Column 4 link 1</a>
-                    <a href="#">Column 4 link 2</a>
-                    <a href="#">Column 4 link 3</a>
-                </li>
-                </ul>
-            </li>
-
+            <li><a class="nav-link scrollto" href="menu.php">Menu</a></li>
             <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
             <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
             </ul>

@@ -50,9 +50,8 @@
             <li><a class="nav-link scrollto " href="index.php">Home</a></li>
             <li><a class="nav-link scrollto" href="about.php">About</a></li>
             <li><a class="nav-link scrollto" href="portofolio.php">Portfolio</a></li>
-            <li><a class="nav-link scrollto" href="menu.php">Menu</a></li>
-
-            <li><a class="active" href="contact.php">Contact</a></li>
+            <li><a class="active" href="menu.php">Menu</a></li>
+            <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
             <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
@@ -61,82 +60,80 @@
         </div>
     </header>
 
-    <section id="contact" class="contact">
+    <section id="pricing" class="pricing">
 
         <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-            <p>Hubungi Kami</p>
+            <h2>Pricing</h2>
+            <p>Check our Pricing</p>
         </header>
 
-        <div class="row gy-4">
+        <div class="row gy-4" data-aos="fade-left">
 
-            <div class="col-lg-6">
-
-            <div class="row gy-4">
-                <div class="col-md-6">
-                <div class="info-box">
-                    <i class="bi bi-geo-alt"></i>
-                    <h3>Alamat</h3>
-                    <p>Jl. Arcadia No.60,<br>Tangerang, Banten 15154</p>
-                </div>
-                </div>
-                <div class="col-md-6">
-                <div class="info-box">
-                    <i class="bi bi-telephone"></i>
-                    <h3>Telephone</h3>
-                    <p>+62 882-9532-7727<br>+62 813-9880-1643</p>
-                </div>
-                </div>
-                <div class="col-md-6">
-                <div class="info-box">
-                    <i class="bi bi-envelope"></i>
-                    <h3>Email</h3>
-                    <p>paopaobapao@gmail.com</p>
-                </div>
-                </div>
-                <div class="col-md-6">
-                <div class="info-box">
-                    <i class="bi bi-clock"></i>
-                    <h3>Jam Buka</h3>
-                    <p>Senin - Sabtu<br>09:00 - 17:00</p>
-                </div>
-                </div>
+            <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+            <div class="box">
+                <h3 style="color: #07d5c0;">Free Plan</h3>
+                <div class="price"><sup>$</sup>0<span> / mo</span></div>
+                <img src="assets/img/pricing-free.png" class="img-fluid" alt="">
+                <ul>
+                <li>Aida dere</li>
+                <li>Nec feugiat nisl</li>
+                <li>Nulla at volutpat dola</li>
+                <li class="na">Pharetra massa</li>
+                <li class="na">Massa ultricies mi</li>
+                </ul>
+                <a href="#" class="btn-buy">Buy Now</a>
+            </div>
             </div>
 
+            <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+            <div class="box">
+                <span class="featured">Featured</span>
+                <h3 style="color: #65c600;">Starter Plan</h3>
+                <div class="price"><sup>$</sup>19<span> / mo</span></div>
+                <img src="assets/img/pricing-starter.png" class="img-fluid" alt="">
+                <ul>
+                <li>Aida dere</li>
+                <li>Nec feugiat nisl</li>
+                <li>Nulla at volutpat dola</li>
+                <li>Pharetra massa</li>
+                <li class="na">Massa ultricies mi</li>
+                </ul>
+                <a href="#" class="btn-buy">Buy Now</a>
+            </div>
             </div>
 
-            <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" class="php-email-form">
-                <div class="row gy-4">
+            <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
+            <div class="box">
+                <h3 style="color: #ff901c;">Business Plan</h3>
+                <div class="price"><sup>$</sup>29<span> / mo</span></div>
+                <img src="assets/img/pricing-business.png" class="img-fluid" alt="">
+                <ul>
+                <li>Aida dere</li>
+                <li>Nec feugiat nisl</li>
+                <li>Nulla at volutpat dola</li>
+                <li>Pharetra massa</li>
+                <li>Massa ultricies mi</li>
+                </ul>
+                <a href="#" class="btn-buy">Buy Now</a>
+            </div>
+            </div>
 
-                <div class="col-md-6">
-                    <input type="text" name="name" class="form-control" placeholder="Nama" required>
-                </div>
-
-                <div class="col-md-6 ">
-                    <input type="email" class="form-control" name="email" placeholder="Email" required>
-                </div>
-
-                <div class="col-md-12">
-                    <input type="text" class="form-control" name="judul" placeholder="Judul" required>
-                </div>
-
-                <div class="col-md-12">
-                    <textarea class="form-control" name="pesan" rows="6" placeholder="Pesan" required></textarea>
-                </div>
-
-                <div class="col-md-12 text-center">
-                    <div class="loading">Loading</div>
-                    <div class="error-message"></div>
-                    <div class="sent-message">Pesan Anda Telah Terkirim, Terimakasih!</div>
-
-                    <button type="submit">Kirim Pesan</button>
-                </div>
-
-                </div>
-            </form>
-
+            <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+            <div class="box">
+                <h3 style="color: #ff0071;">Ultimate Plan</h3>
+                <div class="price"><sup>$</sup>49<span> / mo</span></div>
+                <img src="assets/img/pricing-ultimate.png" class="img-fluid" alt="">
+                <ul>
+                <li>Aida dere</li>
+                <li>Nec feugiat nisl</li>
+                <li>Nulla at volutpat dola</li>
+                <li>Pharetra massa</li>
+                <li>Massa ultricies mi</li>
+                </ul>
+                <a href="#" class="btn-buy">Buy Now</a>
+            </div>
             </div>
 
         </div>
