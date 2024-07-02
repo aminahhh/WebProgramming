@@ -102,7 +102,7 @@
                 <div class="info-box">
                     <i class="bi bi-geo-alt"></i>
                     <h3>Alamat</h3>
-                    <p>Jl. Arcadia No.60,<br>Tangerang, Banten 553471</p>
+                    <p>Jl. Arcadia No.60,<br>Tangerang, Banten 15154</p>
                 </div>
                 </div>
                 <div class="col-md-6">
@@ -116,7 +116,7 @@
                 <div class="info-box">
                     <i class="bi bi-envelope"></i>
                     <h3>Email</h3>
-                    <p>assovmarket@gmail.com</p>
+                    <p>paopaobapao@gmail.com</p>
                 </div>
                 </div>
                 <div class="col-md-6">
