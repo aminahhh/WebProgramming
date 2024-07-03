@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/logo 16.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -41,18 +41,17 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
         <a href="index.html" class="logo d-flex align-items-center">
-            <img src="assets/img/logo.png" alt="">
-            <span>FlexStart</span>
+            <img src="assets/img/logo 32.png" alt="">
+            <span>PAOPAO</span>
         </a>
 
         <nav id="navbar" class="navbar">
             <ul>
             <li><a class="nav-link scrollto " href="index.php">Home</a></li>
-            <li><a class="nav-link scrollto" href="about.php">About</a></li>
+            <li><a class="nav-link scrollto" href="about.php">About Us</a></li>
             <li><a class="nav-link scrollto" href="portofolio.php">Portfolio</a></li>
             <li><a class="active" href="menu.php">Menu</a></li>
             <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
-            <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
