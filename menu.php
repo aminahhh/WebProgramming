@@ -65,74 +65,93 @@
         <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-            <h2>Pricing</h2>
-            <p>Check our Pricing</p>
+            <h2>Menu</h2>
+            <p>Check our Menu</p>
         </header>
 
         <div class="row gy-4" data-aos="fade-left">
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="box">
-                <h3 style="color: #07d5c0;">Free Plan</h3>
-                <div class="price"><sup>$</sup>0<span> / mo</span></div>
-                <img src="assets/img/pricing-free.png" class="img-fluid" alt="">
+                <h3 style="color: #DCA47C;">PAOYAM</h3>
+                <div class="price"><sup>Rp</sup>8000<span> / item</span></div>
+                <img src="assets/img/hitam gurih.jpg" class="img-fluid" alt="">
                 <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
+                <li>Bakpao Asin dengan isian Ayam Panggang Suwir</li>
                 </ul>
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Buy</a>
             </div>
             </div>
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
             <div class="box">
-                <span class="featured">Featured</span>
-                <h3 style="color: #65c600;">Starter Plan</h3>
-                <div class="price"><sup>$</sup>19<span> / mo</span></div>
-                <img src="assets/img/pricing-starter.png" class="img-fluid" alt="">
+                <h3 style="color: #DCA47C;">PAOYAM</h3>
+                <div class="price"><sup>Rp</sup>8000<span> / item</span></div>
+                <img src="assets/img/hitam manis.jpg" class="img-fluid" alt="">
                 <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
+                <li>Bakpao Asin dengan isian Ayam Kecap Suwir</li>
                 </ul>
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Buy</a>
             </div>
             </div>
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
             <div class="box">
-                <h3 style="color: #ff901c;">Business Plan</h3>
-                <div class="price"><sup>$</sup>29<span> / mo</span></div>
-                <img src="assets/img/pricing-business.png" class="img-fluid" alt="">
+                <h3 style="color: #DCA47C;">PAOPI</h3>
+                <div class="price"><sup>Rp</sup>8000<span> / item</span></div>
+                <img src="assets/img/sapi.jpg" class="img-fluid" alt="">
                 <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
+                <li>Bakpao Asin dengan isian Daging Sapi Cincang Pedas Manis</li>
                 </ul>
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Buy</a>
             </div>
             </div>
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="box">
-                <h3 style="color: #ff0071;">Ultimate Plan</h3>
-                <div class="price"><sup>$</sup>49<span> / mo</span></div>
-                <img src="assets/img/pricing-ultimate.png" class="img-fluid" alt="">
+                <h3 style="color: #DCA47C;">PAOEGG</h3>
+                <div class="price"><sup>Rp</sup>6000<span> / item</span></div>
+                <img src="assets/img/telur asin.jpg" class="img-fluid" alt="">
                 <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
+                <li>Bakpao Asin dengan isian Telur Asin</li>
                 </ul>
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Buy</a>
+            </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+            <div class="box">
+                <h3 style="color: #DCA47C;">PAOLAT</h3>
+                <div class="price"><sup>Rp</sup>6000<span> / item</span></div>
+                <img src="assets/img/coklat.jpg" class="img-fluid" alt="">
+                <ul>
+                <li>Bakpao Manis dengan isian Coklat Manis yang Lumer</li>
+                </ul>
+                <a href="#" class="btn-buy">Buy</a>
+            </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+            <div class="box">
+                <h3 style="color: #DCA47C;">PAORED</h3>
+                <div class="price"><sup>Rp</sup>6000<span> / item</span></div>
+                <img src="assets/img/cangmerah.jpg" class="img-fluid" alt="">
+                <ul>
+                <li>Bakpao Manis dengan isian Kacang Merah Manis</li>
+                </ul>
+                <a href="#" class="btn-buy">Buy</a>
+            </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+            <div class="box">
+                <h3 style="color: #DCA47C;">PAOIJO</h3>
+                <div class="price"><sup>Rp</sup>6000<span> / item</span></div>
+                <img src="assets/img/cangijo.jpg" class="img-fluid" alt="">
+                <ul>
+                <li>Bakpao Manis dengan isian Kacang Hijau Manis</li>
+                </ul>
+                <a href="#" class="btn-buy">Buy</a>
             </div>
             </div>
 
