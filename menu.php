@@ -72,7 +72,7 @@
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="box">
-                <h3 style="color: #DCA47C;">PAOYAM</h3>
+                <h3 style="color: #6F4E37;">PAOYAM</h3>
                 <div class="price"><sup>Rp</sup>8000<span> / item</span></div>
                 <img src="assets/img/hitam gurih.jpg" class="img-fluid" alt="">
                 <ul>
@@ -84,7 +84,7 @@
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
             <div class="box">
-                <h3 style="color: #DCA47C;">PAOYAM</h3>
+                <h3 style="color: ##6F4E37;">PAOYAM</h3>
                 <div class="price"><sup>Rp</sup>8000<span> / item</span></div>
                 <img src="assets/img/hitam manis.jpg" class="img-fluid" alt="">
                 <ul>
@@ -96,7 +96,7 @@
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
             <div class="box">
-                <h3 style="color: #DCA47C;">PAOPI</h3>
+                <h3 style="color: #6F4E37;">PAOPI</h3>
                 <div class="price"><sup>Rp</sup>8000<span> / item</span></div>
                 <img src="assets/img/sapi.jpg" class="img-fluid" alt="">
                 <ul>
@@ -108,7 +108,7 @@
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="box">
-                <h3 style="color: #DCA47C;">PAOEGG</h3>
+                <h3 style="color: #FFC100;">PAOEGG</h3>
                 <div class="price"><sup>Rp</sup>6000<span> / item</span></div>
                 <img src="assets/img/telur asin.jpg" class="img-fluid" alt="">
                 <ul>
@@ -120,7 +120,7 @@
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="box">
-                <h3 style="color: #DCA47C;">PAOLAT</h3>
+                <h3 style="color: #6F4E37;">PAOLAT</h3>
                 <div class="price"><sup>Rp</sup>6000<span> / item</span></div>
                 <img src="assets/img/coklat.jpg" class="img-fluid" alt="">
                 <ul>
@@ -132,7 +132,7 @@
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="box">
-                <h3 style="color: #DCA47C;">PAORED</h3>
+                <h3 style="color: #C80036">PAORED</h3>
                 <div class="price"><sup>Rp</sup>6000<span> / item</span></div>
                 <img src="assets/img/cangmerah.jpg" class="img-fluid" alt="">
                 <ul>
@@ -144,7 +144,7 @@
 
             <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="box">
-                <h3 style="color: #DCA47C;">PAOIJO</h3>
+                <h3 style="color: #1A5319;">PAOIJO</h3>
                 <div class="price"><sup>Rp</sup>6000<span> / item</span></div>
                 <img src="assets/img/cangijo.jpg" class="img-fluid" alt="">
                 <ul>
