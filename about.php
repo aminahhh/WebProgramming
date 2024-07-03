@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/logo 16.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -48,11 +48,10 @@
         <nav id="navbar" class="navbar">
             <ul>
             <li><a class="nav-link scrollto " href="index.php">Home</a></li>
-            <li><a class="active" href="about.php">About</a></li>
+            <li><a class="active" href="about.php">About Us</a></li>
             <li><a class="nav-link scrollto" href="portofolio.php">Portfolio</a></li>
             <li><a class="nav-link scrollto" href="menu.php">Menu</a></li>
             <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
-            <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
@@ -110,7 +109,7 @@
                     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
                         <div class="member-img">
-                        <img src="assets/img/team/moja.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/mojaa.jpg" class="img-fluid" alt="">
                         <div class="social">
                 
                             <a href=""><i class="bi bi-instagram"></i></a>
@@ -128,7 +127,7 @@
                     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
                         <div class="member-img">
-                        <img src="assets/img/team/sapira.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/team/safira.jpeg" class="img-fluid" alt="">
                         <div class="social">
                             
                             <a href=""><i class="bi bi-instagram"></i></a>
@@ -146,7 +145,7 @@
                     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
                         <div class="member-img">
-                        <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/team/ami.jpeg" class="img-fluid" alt="">
                         <div class="social">
                             
                             <a href=""><i class="bi bi-instagram"></i></a>
@@ -164,7 +163,7 @@
                     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
                         <div class="member-img">
-                        <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/team/pia.jpeg" class="img-fluid" alt="">
                         <div class="social">
                             
                             <a href=""><i class="bi bi-instagram"></i></a>
@@ -182,7 +181,7 @@
                     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
                         <div class="member-img">
-                        <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/team/syafiraa.jpeg" class="img-fluid" alt="">
                         <div class="social">
                             
                             <a href=""><i class="bi bi-instagram"></i></a>
@@ -200,7 +199,7 @@
                     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
                         <div class="member-img">
-                        <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/team/syairaa.jpeg" class="img-fluid" alt="">
                         <div class="social">
                             
                             <a href=""><i class="bi bi-instagram"></i></a>

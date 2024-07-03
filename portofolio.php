@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/logo 16.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -41,18 +41,17 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
         <a href="index.html" class="logo d-flex align-items-center">
-            <img src="assets/img/logo.png" alt="">
-            <span>FlexStart</span>
+            <img src="assets/img/logo 32.png" alt="">
+            <span>PAOPAO</span>
         </a>
 
         <nav id="navbar" class="navbar">
             <ul>
             <li><a class="nav-link scrollto " href="index.php">Home</a></li>
-            <li><a class="nav-link scrollto" href="about.php">About</a></li>
+            <li><a class="nav-link scrollto" href="about.php">About Us</a></li>
             <li><a class="active" href="portfolio.php">Portfolio</a></li>
             <li><a class="nav-link scrollto" href="menu.php">Menu</a></li>
             <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
-            <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
@@ -183,8 +182,7 @@
         <div class="container" data-aos="fade-up">
 
             <header class="section-header">
-                <h2>Testimonials</h2>
-                <p>What they are saying about us</p>
+                <p>Testimoni</p>
             </header>
 
             <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="200">
@@ -196,7 +194,7 @@
                         <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                     </div>
                     <p>
-                        Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    Aku suka sekali dengan BAKPAO ini. Aku beli rasa Ayam Kecap Suwir dan rasanya ingin beli lagi. Rasanya enak, isiannya banyak.
                     </p>
                     <div class="profile mt-auto">
                         <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
@@ -212,7 +210,7 @@
                         <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                     </div>
                     <p>
-                        Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    Harganya murah banget, isiannya juga ga pelit makanya aku beli agak banyak karena sekalian mau nyobain berbagai varian juga.
                     </p>
                     <div class="profile mt-auto">
                         <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
@@ -228,7 +226,7 @@
                         <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                     </div>
                     <p>
-                        Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                        BAKPAO dengan harga dibawah 10.000 ini sangat enakkk.
                     </p>
                     <div class="profile mt-auto">
                         <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
@@ -244,7 +242,7 @@
                         <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                     </div>
                     <p>
-                        Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    BAKPAO ini benar-benar enak dan teksturnya lembut. Kalau digigit, tidak terlalu keras jadi tidak sulit untuk mengunyah.
                     </p>
                     <div class="profile mt-auto">
                         <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
@@ -254,21 +252,6 @@
                     </div>
                 </div><!-- End testimonial item -->
 
-                <div class="swiper-slide">
-                    <div class="testimonial-item">
-                    <div class="stars">
-                        <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                    </div>
-                    <p>
-                        Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                    </p>
-                    <div class="profile mt-auto">
-                        <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                        <h3>John Larson</h3>
-                        <h4>Entrepreneur</h4>
-                    </div>
-                    </div>
-                </div><!-- End testimonial item -->
 
                 </div>
                 <div class="swiper-pagination"></div>

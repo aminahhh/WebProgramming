@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/logo 16.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -50,12 +50,11 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="about.php">About</a></li>
+          <li><a class="nav-link scrollto" href="about.php">About Us</a></li>
           <li><a class="nav-link scrollto" href="portofolio.php">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="menu.php">Menu</a></li>
 
           <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -81,7 +80,7 @@
           </div>
         </div>
         <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/hero-img.png" class="img-fluid" alt="">
+          <img src="assets/img/bakpaoo2.png" class="img-fluid" alt="">
         </div>
       </div>
     </div>
