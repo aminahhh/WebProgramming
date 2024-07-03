@@ -43,6 +43,7 @@ h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
+  background: #FFEEE1;
 }
 
 .section-header {
@@ -65,7 +66,7 @@ section {
   font-size: 38px;
   line-height: 42px;
   font-weight: 700;
-  color: #012970;
+  color: #792323;
 }
 
 @media (max-width: 768px) {
@@ -1035,18 +1036,18 @@ section {
   display: inline-block;
   padding: 8px 40px 10px 40px;
   border-radius: 50px;
-  color: #4154f1;
+  color: #792323;
   transition: none;
   font-size: 16px;
   font-weight: 400;
   font-family: "Nunito", sans-serif;
   font-weight: 600;
   transition: 0.3s;
-  border: 1px solid #4154f1;
+  border: 1px solid #792323;
 }
 
 .pricing .btn-buy:hover {
-  background: #4154f1;
+  background: #792323;
   color: #fff;
 }
 
@@ -1202,12 +1203,12 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #012970;
+  color: #792323;
   font-weight: 700;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #012970;
+  color: #792323;
   font-weight: 600;
   font-size: 14px;
   text-transform: uppercase;
@@ -1222,7 +1223,7 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
-  background: #4154f1;
+  background: #FFC395;
   margin: 10px 2px;
   width: 36px;
   height: 36px;
@@ -1617,19 +1618,19 @@ section {
 --------------------------------------------------------------*/
 .contact .info-box {
   color: #444444;
-  background: #fafbff;
+  background: #ffffff;
   padding: 30px;
 }
 
 .contact .info-box i {
   font-size: 38px;
   line-height: 0;
-  color: #4154f1;
+  color: #f16b6b;
 }
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #012970;
+  color: #792323;
   font-weight: 700;
   margin: 20px 0 10px 0;
 }
@@ -1642,7 +1643,7 @@ section {
 }
 
 .contact .php-email-form {
-  background: #fafbff;
+  background: #ffffff;
   padding: 30px;
   height: 100%;
 }
@@ -1710,7 +1711,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #4154f1;
+  background: #792323;
   border: 0;
   padding: 10px 30px;
   color: #fff;

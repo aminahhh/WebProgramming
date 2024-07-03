@@ -64,7 +64,6 @@
         <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-            <h2>Menu</h2>
             <p>Check our Menu</p>
         </header>
 
