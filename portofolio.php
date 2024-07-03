@@ -84,7 +84,6 @@
                 <img src="assets/img/portfolio/bakpao_redB.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                 <h4>Bakpao Red Beans</h4>
-                <p>Card</p>
                 <div class="portfolio-links">
                     <a href="assets/img/portfolio/bakpao_redB.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Kacang Merah"><i class="bi bi-plus"></i></a>
                 </div>
@@ -97,7 +96,6 @@
                 <img src="assets/img/portfolio/bakpao_kacangijo.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                 <h4>Bakpao Kacang Hijau</h4>
-                <p>Card</p>
                 <div class="portfolio-links">
                     <a href="assets/img/portfolio/bakpao_kacangijo.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Kacang Hijau"><i class="bi bi-plus"></i></a>
                 </div>
@@ -110,7 +108,6 @@
                 <img src="assets/img/portfolio/bakpao ayamPA.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                 <h4>Bakpao Ayam Panggang</h4>
-                <p>App</p>
                 <div class="portfolio-links">
                     <a href="assets/img/portfolio/bakpao ayamPA.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Ayam Panggang"><i class="bi bi-plus"></i></a>
                 </div>
@@ -123,7 +120,6 @@
                 <img src="assets/img/portfolio/bakpao_sapi.jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                 <h4>Bakpao Daging Sapi</h4>
-                <p>App</p>
                 <div class="portfolio-links">
                     <a href="assets/img/portfolio/bakpao_sapi.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Danging Sapi Pedas Manis"><i class="bi bi-plus"></i></a>
                 </div>
@@ -137,7 +133,6 @@
                 <img src="assets/img/portfolio/bakpao_telor.jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                 <h4>Bakpao Telur</h4>
-                <p>App</p>
                 <div class="portfolio-links">
                     <a href="assets/img/portfolio/bakpao_telor.jpeg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Telur"><i class="bi bi-plus"></i></a>
                 </div>
@@ -150,7 +145,6 @@
                 <img src="assets/img/portfolio/bakpao_coklat.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                 <h4>Bakpao Coklat</h4>
-                <p>Card</p>
                 <div class="portfolio-links">
                     <a href="assets/img/portfolio/bakpao_coklat.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Coklat"><i class="bi bi-plus"></i></a>
                 </div>
@@ -163,7 +157,6 @@
                 <img src="assets/img/portfolio/bakpao_ayamM.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                 <h4>Bakpao Ayam Manis</h4>
-                <p>App</p>
                 <div class="portfolio-links">
                     <a href="assets/img/portfolio/bakpao_ayamM.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Bakpao Isi Ayam Kecap"><i class="bi bi-plus"></i></a>
                 </div>
