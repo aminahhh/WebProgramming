@@ -190,7 +190,7 @@
                     Aku suka sekali dengan BAKPAO ini. Aku beli rasa Ayam Kecap Suwir dan rasanya ingin beli lagi. Rasanya enak, isiannya banyak.
                     </p>
                     <div class="profile mt-auto">
-                        <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                        <img src="assets/img/testimonials/biru joy.jpg" class="testimonial-img" alt="">
                         <h3>Saul Goodman</h3>
                         <h4>Ceo &amp; Founder</h4>
                     </div>
@@ -206,7 +206,7 @@
                     Harganya murah banget, isiannya juga ga pelit makanya aku beli agak banyak karena sekalian mau nyobain berbagai varian juga.
                     </p>
                     <div class="profile mt-auto">
-                        <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                        <img src="assets/img/testimonials/ijo.jpeg" class="testimonial-img" alt="">
                         <h3>Sara Wilsson</h3>
                         <h4>Designer</h4>
                     </div>
@@ -222,7 +222,7 @@
                         BAKPAO dengan harga dibawah 10.000 ini sangat enakkk.
                     </p>
                     <div class="profile mt-auto">
-                        <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                        <img src="assets/img/testimonials/anger.jpeg" class="testimonial-img" alt="">
                         <h3>Jena Karlis</h3>
                         <h4>Store Owner</h4>
                     </div>
@@ -238,7 +238,7 @@
                     BAKPAO ini benar-benar enak dan teksturnya lembut. Kalau digigit, tidak terlalu keras jadi tidak sulit untuk mengunyah.
                     </p>
                     <div class="profile mt-auto">
-                        <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                        <img src="assets/img/testimonials/images.jpeg" class="testimonial-img" alt="">
                         <h3>Matt Brandon</h3>
                         <h4>Freelancer</h4>
                     </div>
