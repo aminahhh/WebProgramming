@@ -49,7 +49,7 @@
             <ul>
             <li><a class="nav-link scrollto " href="index.php">Home</a></li>
             <li><a class="nav-link scrollto" href="about.php">About Us</a></li>
-            <li><a class="active" href="portfolio.php">Portfolio</a></li>
+            <li><a class="active" href="portofolio.php">Portfolio</a></li>
             <li><a class="nav-link scrollto" href="menu.php">Menu</a></li>
             <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
             </ul>
@@ -64,7 +64,7 @@
         <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-            <p>Check our latest work</p>
+            <p>Portofolio</p>
         </header>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">

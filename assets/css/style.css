@@ -56,7 +56,7 @@ section {
   letter-spacing: 1px;
   font-weight: 700;
   margin: 0;
-  color: #4154f1;
+  color: #FFC395;
   text-transform: uppercase;
 }
 
@@ -137,7 +137,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #4154f1;
+  background: #792323;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -249,7 +249,7 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #792323;
+  color: #FFC395;
 }
 
 .navbar .getstarted,
@@ -420,13 +420,13 @@ section {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #012970;
+  color: #792323;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #4154f1;
+  color: #FFC395;
 }
 
 .navbar-mobile .getstarted,
@@ -567,21 +567,21 @@ section {
 # About
 --------------------------------------------------------------*/
 .about .content {
-  background-color: #f6f9ff;
-  padding: 40px;
+  background-color: #ffffff;
+  padding: 37px;
 }
 
 .about h3 {
   font-size: 14px;
   font-weight: 700;
-  color: #4154f1;
+  color: #FFC395;
   text-transform: uppercase;
 }
 
 .about h2 {
   font-size: 24px;
   font-weight: 700;
-  color: #012970;
+  color: #792323;
 }
 
 .about p {
@@ -1010,7 +1010,7 @@ section {
 }
 
 .pricing img {
-  padding: 30px 40px;
+  padding: 10px 5px;
 }
 
 .pricing ul {
@@ -1124,8 +1124,8 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #4154f1;
-  border-color: #4154f1;
+  color: #792323;
+  border-color: #792323;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1240,7 +1240,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: #5969f3;
+  background: #FFC395;
 }
 
 .portfolio .portfolio-wrap:hover img {
@@ -1290,11 +1290,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #4154f1;
+  border: 1px solid #792323;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #4154f1;
+  background-color: #792323;
 }
 
 .portfolio-details .portfolio-info {
@@ -1492,7 +1492,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #012970;
+  color: #792323;
 }
 
 .team .member .member-info span {
