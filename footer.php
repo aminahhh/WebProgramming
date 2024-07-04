@@ -20,7 +20,7 @@
             <p>
             Jl. Arcadia No.60 <br> 
             Tangerang, Banten 15154<br>
-            United States <br><br>
+            <br>
             <strong>Phone:</strong> +62 882-9532-7727<br>
             <strong>Email:</strong> paopaobapao@gmail.com<br>
             </p>
