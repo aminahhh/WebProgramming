@@ -8,18 +8,10 @@
             <img src="assets/img/logo 32.png" alt="">
             <span>PAOPAO</span>
             </a>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+            <p>Bakpao yang kami hidangkan memiliki rasa yang otentik. Roti yang lembut, ditambah isian yang penuh membuat siapapun yang menggigitnya akan selalu merasakan kepuasan. Harganya yang murah, dengan rasa bintang 5 akan membuat anda ketagihan.</p>
             <div class="social-links mt-3">
             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
             </div>
-        </div>
-
-        <div class="col-lg-2 col-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-            <li><i class="bi bi-chevron-right"></i> <a href="index.php">Home</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="about.php">About us</a></li>
-            </ul>
         </div>
 
 
