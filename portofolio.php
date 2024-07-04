@@ -191,8 +191,8 @@
                     </p>
                     <div class="profile mt-auto">
                         <img src="assets/img/testimonials/biru joy.jpg" class="testimonial-img" alt="">
-                        <h3>Saul Goodman</h3>
-                        <h4>Ceo &amp; Founder</h4>
+                        <h3>Joy Cristie</h3>
+                       
                     </div>
                     </div>
                 </div><!-- End testimonial item -->
@@ -207,8 +207,8 @@
                     </p>
                     <div class="profile mt-auto">
                         <img src="assets/img/testimonials/ijo.jpeg" class="testimonial-img" alt="">
-                        <h3>Sara Wilsson</h3>
-                        <h4>Designer</h4>
+                        <h3>Sara Wijayanto</h3>
+                       
                     </div>
                     </div>
                 </div><!-- End testimonial item -->
@@ -223,8 +223,8 @@
                     </p>
                     <div class="profile mt-auto">
                         <img src="assets/img/testimonials/anger.jpeg" class="testimonial-img" alt="">
-                        <h3>Jena Karlis</h3>
-                        <h4>Store Owner</h4>
+                        <h3>Yanto Bin Jamal</h3>
+                        
                     </div>
                     </div>
                 </div><!-- End testimonial item -->
@@ -239,8 +239,8 @@
                     </p>
                     <div class="profile mt-auto">
                         <img src="assets/img/testimonials/images.jpeg" class="testimonial-img" alt="">
-                        <h3>Matt Brandon</h3>
-                        <h4>Freelancer</h4>
+                        <h3>Brandon Salim</h3>
+                        
                     </div>
                     </div>
                 </div><!-- End testimonial item -->
