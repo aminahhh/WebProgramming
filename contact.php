@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/logo 16.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -41,43 +41,18 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
         <a href="index.html" class="logo d-flex align-items-center">
-            <img src="assets/img/logo.png" alt="">
-            <span>FlexStart</span>
+            <img src="assets/img/logo 32.png" alt="">
+            <span>PAOPAO</span>
         </a>
 
         <nav id="navbar" class="navbar">
             <ul>
             <li><a class="nav-link scrollto " href="index.php">Home</a></li>
-            <li><a class="nav-link scrollto" href="#about">About</a></li>
+            <li><a class="nav-link scrollto" href="about.php">About Us</a></li>
             <li><a class="nav-link scrollto" href="portofolio.php">Portfolio</a></li>
-            <li><a class="nav-link scrollto" href="#team">Team</a></li>
-            <li class="dropdown megamenu"><a href="#"><span>Mega Menu</span> <i class="bi bi-chevron-down"></i></a>
-                <ul>
-                <li>
-                    <a href="#">Column 1 link 1</a>
-                    <a href="#">Column 1 link 2</a>
-                    <a href="#">Column 1 link 3</a>
-                </li>
-                <li>
-                    <a href="#">Column 2 link 1</a>
-                    <a href="#">Column 2 link 2</a>
-                    <a href="#">Column 3 link 3</a>
-                </li>
-                <li>
-                    <a href="#">Column 3 link 1</a>
-                    <a href="#">Column 3 link 2</a>
-                    <a href="#">Column 3 link 3</a>
-                </li>
-                <li>
-                    <a href="#">Column 4 link 1</a>
-                    <a href="#">Column 4 link 2</a>
-                    <a href="#">Column 4 link 3</a>
-                </li>
-                </ul>
-            </li>
+            <li><a class="nav-link scrollto" href="menu.php">Menu</a></li>
 
             <li><a class="active" href="contact.php">Contact</a></li>
-            <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
